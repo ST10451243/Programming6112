@@ -1,1 +1,3 @@
-SteamStream is for Section A and Grade App is for section B
+SteamStream is for Section A
+The unit tests will be in the code that you will see.
+Section B question 1 is Grade_App
